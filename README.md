@@ -1,0 +1,5 @@
+-in beta
+-no key system
+-unlikely ban
+-may pop up as a DLL/inject virus
+-idk
